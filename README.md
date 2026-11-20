@@ -22,4 +22,4 @@ A free, in-browser tool for checking and cleaning `.srt` subtitle files. Nothing
 
 The download always renumbers cues and normalizes timestamps. Tick **Wrap long lines** if you also want long lines broken to the current limits.
 
-Need custom subtitles, ASO or a small web tool? [Ko-fi](https://ko-fi.com/stanleyj) · [GitHub](https://github.com/todanley) · [Upwork](https://www.upwork.com/freelancers/~011fabd9dccfd03cd8)
+Need custom subtitles, ASO or a small web tool? [GitHub](https://github.com/todanley) · [Upwork](https://www.upwork.com/freelancers/~011fabd9dccfd03cd8)
